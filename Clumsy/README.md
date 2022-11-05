@@ -1,1 +1,2 @@
-# CLumsy
+# Clumsy
+Clumsy is a lagswitch some people use it to do timestop on recroom IFrozeYou makes clumsys u can download them from here https://www.youtube.com/c/ifrozeyou ur gonna have to join the discord. There is a ahk maker in the downloads, Alternatively u could use this ahk script in this folder to bind it. just edit the first part where it says space to what keybind u want and where it says monkey clumsy after change that to the title of the clumsy.
