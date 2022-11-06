@@ -6,3 +6,4 @@
  open ce and turn on all of the settings in extra then press ok it should say dbk64 loaded
  Run WinD64 and uninstall it if it doesnt give u that option go to syestem32 and delete the WinD64 file it made
  Then just connect to recroom and u can use cheat engine to do stuff
+I would recommend using WinD64.
