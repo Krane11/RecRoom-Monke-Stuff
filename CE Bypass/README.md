@@ -1,4 +1,4 @@
-# CE
+# CE (Patched) use for information
  This will teach u how to use ce on rec room either using WinD64 or EFIguard
  U can use any Custom Cheat Engine u want but this one i made and is Undetected https://anonfiles.com/ucaec7Gcy5/bin_rar if u dont know how to use anon files just dont download it as an iso.
  U can  either use WinD64 https://github.com/katlogic/WindowsD/releases or Efiguard https://github.com/Mattiwatti/EfiGuard
