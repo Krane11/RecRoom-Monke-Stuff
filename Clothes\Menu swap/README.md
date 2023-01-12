@@ -1,3 +1,0 @@
-# Clothing And Menu values
-To swap clothing or menues on your ce go to array of byte and paste the hex of the item use ctrl a to move all of the values and swap all of them at the same time to whatever u want, then go to the shop and chang you skin color or something to reload ur outfit. 
-To get these values go into the recroom data and open resource.assests with a text editor dont change anything in this tho. u can use ctrl f to find the clothes or menu u want. if u find the right one there should be a string of letters that u can see after the values copy that into the program on my github string2RData and copy the number u get after doing everything and thats how u get the hex.
